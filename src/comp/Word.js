@@ -5,6 +5,7 @@ const wordst = {
     margin: "7px",
     width: "50px",
     padding: "0px",
+    textAlign: "center",
 }
 
 
